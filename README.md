@@ -69,6 +69,6 @@ Certainly! Here's a project description for your "Predicting Round Winner in Com
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+Feel free to reach out to me via [email](kenziebaker49@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mackenzie-baker-bb2152198/).
 
 Thank you for visiting my portfolio! I'm excited to continue learning and contributing to impactful projects in the world of technology and data science.
