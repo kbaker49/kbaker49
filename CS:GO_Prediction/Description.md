@@ -1,0 +1,7 @@
+### Predicting Round Winner in Competitive CS:GO
+
+- **Objective**: Developed a predictive model to forecast the outcome of rounds in competitive Counter-Strike: Global Offensive (CS:GO) matches.
+- **Description**: Utilized big data analytics techniques to analyze gameplay data, player statistics, and match outcomes from competitive CS:GO matches. Leveraged machine learning algorithms to build a predictive model capable of identifying factors influencing round outcomes and forecasting the winning team for each round.
+- **Methodology**: Collected and preprocessed large datasets containing gameplay events, player actions, and match results. Conducted exploratory data analysis to identify relevant features and patterns in the data. Developed and trained machine learning models, such as logistic regression, decision trees, or neural networks, to predict round winners based on historical data. Evaluated model performance using metrics such as accuracy, precision, recall, and F1 score.
+- **Technologies Used**: Big data analytics tools (e.g., Apache Spark, Hadoop), machine learning libraries (e.g., Scikit-learn, TensorFlow), programming languages (e.g., Python), data visualization tools (e.g., Matplotlib, Seaborn).
+- **Outcome**: Generated insights into the key factors influencing round outcomes in CS:GO matches and provided a predictive tool to assist teams in making strategic decisions during gameplay.
