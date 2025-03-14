@@ -52,8 +52,6 @@ Currently, I am leveraging my skills as a full-stack developer at Service Expres
 - **Technologies Used**: Virtualization technologies, OpenEMR, Synthea, HAPI-FHIR.
 - **Skills Demonstrated**: Proficiency in system configuration, healthcare informatics, data generation, and interoperability standards.
 
-Certainly! Here's a project description for your "Predicting Round Winner in Competitive CS:GO" final project:
-
 ### Predicting Round Winner in Competitive CS:GO
 
 - **Objective**: Developed a predictive model to forecast the outcome of rounds in competitive Counter-Strike: Global Offensive (CS:GO) matches.
@@ -61,6 +59,14 @@ Certainly! Here's a project description for your "Predicting Round Winner in Com
 - **Methodology**: Collected and preprocessed large datasets containing gameplay events, player actions, and match results. Conducted exploratory data analysis to identify relevant features and patterns in the data. Developed and trained machine learning models, such as logistic regression, decision trees, or neural networks, to predict round winners based on historical data. Evaluated model performance using metrics such as accuracy, precision, recall, and F1 score.
 - **Technologies Used**: Big data analytics tools (e.g., Apache Spark, Hadoop), machine learning libraries (e.g., Scikit-learn, TensorFlow), programming languages (e.g., Python), data visualization tools (e.g., Matplotlib, Seaborn).
 - **Outcome**: Generated insights into the key factors influencing round outcomes in CS:GO matches and provided a predictive tool to assist teams in making strategic decisions during gameplay.
+
+### Analyzing Animated Movie Release Date Patterns and Its Effect on Revenue
+
+- **Objective**: Developed a predictive model to identify the optimal release date for animated movies to maximize revenue.
+- **Description**: Analyzed historical animated movie data, including release timing, budget, audience reception, and revenue trends. Utilized machine learning models to predict revenue and determine the best release date based on statistical patterns and seasonality.
+- **Methodology**: Collected and preprocessed data from a dataset containing 51,945 rows and 23 features. Engineered features related to temporal aspects, standardized numeric features, and incorporated BERT embeddings for text-based insights. Trained and evaluated regression models, including Linear Regression, Support Vector Regression, Decision Trees, KNN, and ensemble methods like Random Forest and Elastic Net. Conducted seasonality analysis to identify high-revenue periods.
+- **Technologies Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn, BERT, GridSearchCV, Random Forest, Elastic Net.
+- **Outcome**: The Random Forest model achieved the highest accuracy, with an R-squared value of 0.829 on the test set. Seasonality analysis confirmed significant revenue differences across seasons, reinforcing the importance of strategic movie release timing.
 
 ## Education
 - Master of Science in Data Science, Michigan Tech University, 2024
